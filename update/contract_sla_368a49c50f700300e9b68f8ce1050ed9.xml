@@ -8,7 +8,7 @@
         <duration>1970-01-02 00:00:00</duration>
         <duration_type/>
         <enable_logging>false</enable_logging>
-        <name>Github Committed SLA</name>
+        <name>Github Committed SLA- EDIT</name>
         <pause_condition/>
         <relative_duration_works_on>Task record</relative_duration_works_on>
         <reset_condition/>
@@ -28,8 +28,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>368a49c50f700300e9b68f8ce1050ed9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Github Committed SLA</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Github Committed SLA- EDIT</sys_name>
         <sys_overrides/>
         <sys_package display_value="Github Test" source="x_47444_github_tes">8b2ac9450f700300e9b68f8ce1050ed8</sys_package>
         <sys_policy/>
@@ -37,10 +37,10 @@
         <sys_scope display_value="Github Test">8b2ac9450f700300e9b68f8ce1050ed8</sys_scope>
         <sys_update_name>contract_sla_368a49c50f700300e9b68f8ce1050ed9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-23 17:01:01</sys_updated_on>
+        <sys_updated_on>2017-08-23 17:02:15</sys_updated_on>
         <timezone/>
         <timezone_source>task.caller_id.time_zone</timezone_source>
-        <type>SLA</type>
+        <type>OLA</type>
         <when_to_cancel>on_condition</when_to_cancel>
         <when_to_resume>on_condition</when_to_resume>
         <workflow display_value="Default SLA workflow">4b6570360a0a0b3000bbacab877713f2</workflow>
